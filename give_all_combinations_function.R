@@ -18,5 +18,5 @@ give_all_combinations <- function(x){
   return(final_list)
 }
 
-y <- give_all_combinations(c("a","b","c","d"))
+y <- give_all_combinations(c("a","b","c","d","e","f","g"))
 print.table(y)
